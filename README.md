@@ -49,3 +49,10 @@ I use github for mainly for temporary hosting of my clients' websites and also u
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ILYA780&theme=dark&background=000000)](https://git.io/streak-stats))]
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILYA780&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
