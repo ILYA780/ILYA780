@@ -2,9 +2,13 @@
 ### I'm a developer and business project manager!
 
 
-
+<br />
+<br />
+<br />
 I use github for mainly for temporary hosting of my clients' websites and also use it as a resume 
-
+<br />
+<br />
+<br />
 ### Skills 💪
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>]
